@@ -1,0 +1,30 @@
+ID_HoaDon;ID_DatMuon;TenNguoiMuon;Ten_PhP;GiaPhong;TenDvuKem;GiaDvuKem;CheckIn;CheckOut;PhuPhi;TongTien;TinhTrangThanhToan
+1;1;Nguyen Van An;Sanh SB4;0;Ban backdrop, Laptop;230000;04/10/2023 7:00;04/10/2023 11:57;0;230000;Da thanh toan
+2;2;Tran Thi Bich;Hoi truong Van Khoa;1500000;Man hinh Led;2500000;11/11/2023 12:27;11/11/2023  15:27:00 PM;0;4000000;Da thanh toan
+3;3;Le Minh Chau;A-202;0;;0;5/23/2023 7:00;5/23/2023 11:20;0;0;Da thanh toan
+4;4;Pham Thi Dung;Sanh D;0;;0;11/05/2022 8:00;11/05/2022 11:10;0;0;Da thanh toan
+5;8;Phan Thi Huong;Hoi truong Nhan van;1500000;;0;7/27/2023 7:00;7/27/2023 12:37;0;1500000;Da thanh toan
+6;9;Vu Van Hung;Sanh D;0;Ban backdrop;200000;4/26/2023 7:02;4/26/2023 11:02;0;200000;Da thanh toan
+7;12;Duong Thi Lan;San nha dieu hanh;0;;0;4/24/2023  18:31:00 PM;4/24/2023  20:31:00 PM;0;0;Da thanh toan
+8;13;Ly Van Long;A-202;0;Ban khung phong, Laptop;330000;10/19/2022 7:23;10/19/2022 11:23;0;0;Da thanh toan
+9;17;Vuong Minh Ngoc;Hoi truong Tong Hop;1500000;Man hinh Led;2500000;08/01/2023 12:35;8/1/2023  18:55:00 PM;300000;4300000;Da thanh toan
+10;19;Dinh Thi Phuong;A-303;0;;0;1/24/2024 18:20;1/24/2024  20:20:00 PM;0;0;Da thanh toan
+11;20;Bach Van Quang;Hoi truong Van Khoa;1500000;Man hinh Led, May chieu;2550000;12/19/2023 7:55;12/19/2023 11:55;0;4050000;Da thanh toan
+12;23;Doan Thi Thanh;D-404;0;Laptop;30000;12/06/2022 7:32;12/06/2022 11:26;0;30000;Da thanh toan
+13;27;Vo Thi Thu;A1-304;0;Treo bandroll;100000;10/26/2023 8:01;10/26/2023 11:41;0;100000;Da thanh toan
+14;30;Chu Minh Tuan;B4-203;0;Laptop;30000;10/01/2023 12:22;10/1/2023  17:12:00 PM;0;30000;Da thanh toan
+15;32;Thai Van Binh;A1-104;0;May chieu, Laptop;80000;6/29/2023 18:00;6/29/2023  21:34:00 PM;0;80000;Da thanh toan
+16;38;Hoang Van Ha;A-404;0;;0;10/20/2023 7:09;10/20/2023 11:31;0;0;Da thanh toan
+17;39;Bui Thi Hien;B4-404;0;;0;9/18/2023 7:21;9/18/2023 11:21;0;0;Da thanh toan
+18;43;Do Minh Hung;B1-204;0;;0;12/08/2023 7:48;12/08/2023 11:13;0;0;Da thanh toan
+19;44;Ngo Thi Khanh;A-103;0;Ban backdrop, Laptop;230000;10/27/2023 7:28;10/27/2023 13:01;0;230000;Da thanh toan
+20;47;To Van Loi;B1-201;0;;0;8/20/2023 7:08;8/20/2023 11:08;0;0;Da thanh toan
+21;48;Ta Thi Lua;Hoi truong Van Khoa;1500000;Laptop, Man hinh Led, Treo bandroll;2630000;3/14/2023 12:34;3/14/2023 19:00;600000;4730000;Da thanh toan
+22;49;Cao Van Manh;C-404;0;Treo bandroll;100000;12/28/2023 7:32;12/28/2023 11:01;0;100000;Da thanh toan
+23;50;Vuong Thi My;C1-202;0;Ban khung phong;300000;01/02/2024 12:42;1/2/2024  17:42:00 PM;0;300000;Da thanh toan
+24;6;Bui Thi Hang;A-102;0;Laptop;30000;06/06/2023 7:00;06/06/2023 11:00;0;30000;Chua thanh toan
+25;29;Phi Thi Trang;C2-104;0;;0;06/12/2024 12:00;6/12/2024  17:23:00 PM;0;0;Da thanh toan
+26;35;Tran Thi Dieu;D-203;0;May chieu;80000;1/15/2023 12:20;1/15/2023  17:20:00 PM;0;80000;Chua thanh toan
+27;7;Dang Minh Huy;A-203;0;May chieu, Laptop;110000;06/01/2024;;;;
+28;16;Cao Thi Nga;A-402;0;Treo bandroll;100000;06/01/2024;;;;
+29;33;Do Thi Cam;B4-102;0;;0;06/01/2024;;;;

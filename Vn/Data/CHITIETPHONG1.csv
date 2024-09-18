@@ -1,0 +1,161 @@
+﻿MAPHONG,TENPHONG,DIADIEMPHP,PHITHUE,SUCCHUA,TINHTRANGPHP
+1,Hoi truong Van Khoa,DTH,1500000,400,San sang
+2,Hoi truong Nhan van,TD,1500000,400,San sang
+3,Hoi truong Tong Hop,TD,1500000,382,San sang
+4,Sanh SB4,TD,0,,San sang
+5,Sanh D,DTH,0,,San sang
+6,San nha dieu hanh,TD,0,,San sang
+7,A-101,TD,0,50,San sang
+8,A-102,TD,0,50,San sang
+9,A-103,TD,0,50,San sang
+10,A-104,TD,0,50,San sang
+11,A-201,TD,0,50,San sang
+12,A-202,TD,0,50,San sang
+13,A-203,TD,0,50,San sang
+14,A-204,TD,0,50,San sang
+15,A-301,TD,0,50,San sang
+16,A-302,TD,0,50,San sang
+17,A-303,TD,0,50,San sang
+18,A-304,TD,0,50,San sang
+19,A-401,TD,0,50,San sang
+20,A-402,TD,0,50,San sang
+21,A-403,TD,0,50,San sang
+22,A-404,TD,0,50,San sang
+23,A1-101,TD,0,90,San sang
+24,A1-102,TD,0,200,San sang
+25,A1-103,TD,0,200,San sang
+26,A1-104,TD,0,90,San sang
+27,A1-201,TD,0,90,San sang
+28,A1-202,TD,0,200,San sang
+29,A1-203,TD,0,200,San sang
+30,A1-204,TD,0,90,San sang
+31,A1-301,TD,0,90,San sang
+32,A1-302,TD,0,200,San sang
+33,A1-303,TD,0,200,San sang
+34,A1-304,TD,0,90,San sang
+35,A1-401,TD,0,90,San sang
+36,A1-402,TD,0,200,San sang
+37,A1-403,TD,0,200,San sang
+38,A1-404,TD,0,90,San sang
+39,C1-101,TD,0,90,San sang
+40,C1-102,TD,0,200,San sang
+41,C1-103,TD,0,200,San sang
+42,C1-104,TD,0,90,San sang
+43,C1-201,TD,0,90,San sang
+44,C1-202,TD,0,200,San sang
+45,C1-203,TD,0,200,San sang
+46,C1-204,TD,0,90,San sang
+47,C1-301,TD,0,90,San sang
+48,C1-302,TD,0,200,San sang
+49,C1-303,TD,0,200,San sang
+50,C1-304,TD,0,90,San sang
+51,C1-401,TD,0,90,San sang
+52,C1-402,TD,0,200,San sang
+53,C1-403,TD,0,200,San sang
+54,C1-404,TD,0,90,San sang
+55,C2-101,TD,0,90,San sang
+56,C2-102,TD,0,200,San sang
+57,C2-103,TD,0,200,San sang
+58,C2-104,TD,0,90,San sang
+59,C2-201,TD,0,90,San sang
+60,C2-202,TD,0,200,San sang
+61,C2-203,TD,0,200,San sang
+62,C2-204,TD,0,90,San sang
+63,C2-301,TD,0,90,San sang
+64,C2-302,TD,0,200,San sang
+65,C2-303,TD,0,200,San sang
+66,C2-304,TD,0,90,San sang
+67,C2-401,TD,0,90,San sang
+68,C2-402,TD,0,200,San sang
+69,C2-403,TD,0,200,San sang
+70,C2-404,TD,0,90,San sang
+71,B1-101,TD,0,50,San sang
+72,B1-102,TD,0,60,San sang
+73,B1-103,TD,0,50,San sang
+74,B1-104,TD,0,60,San sang
+75,B1-201,TD,0,60,San sang
+76,B1-202,TD,0,50,San sang
+77,B1-203,TD,0,60,San sang
+78,B1-204,TD,0,50,San sang
+79,B1-301,TD,0,60,San sang
+80,B1-302,TD,0,60,San sang
+81,B1-303,TD,0,50,San sang
+82,B1-304,TD,0,60,San sang
+83,B1-401,TD,0,50,San sang
+84,B1-402,TD,0,60,San sang
+85,B1-403,TD,0,60,San sang
+86,B1-404,TD,0,50,San sang
+87,B4-101,TD,0,60,San sang
+88,B4-102,TD,0,50,San sang
+89,B4-103,TD,0,60,San sang
+90,B4-104,TD,0,60,San sang
+91,B4-201,TD,0,50,San sang
+92,B4-202,TD,0,60,San sang
+93,B4-203,TD,0,50,San sang
+94,B4-204,TD,0,60,San sang
+95,B4-301,TD,0,60,San sang
+96,B4-302,TD,0,50,San sang
+97,B4-303,TD,0,60,San sang
+98,B4-304,TD,0,50,San sang
+99,B4-401,TD,0,60,San sang
+100,B4-402,TD,0,60,San sang
+101,B4-403,TD,0,50,San sang
+102,B4-404,TD,0,60,San sang
+103,B-101,DTH,0,50,San sang
+104,B-102,DTH,0,60,San sang
+105,B-103,DTH,0,60,San sang
+106,B-104,DTH,0,50,San sang
+107,B-201,DTH,0,60,San sang
+108,B-202,DTH,0,50,San sang
+109,B-203,DTH,0,60,San sang
+110,B-204,DTH,0,60,San sang
+111,B-301,DTH,0,50,San sang
+112,B-302,DTH,0,60,San sang
+113,B-303,DTH,0,50,San sang
+114,B-304,DTH,0,60,San sang
+115,B-401,DTH,0,60,San sang
+116,B-402,DTH,0,50,San sang
+117,B-403,DTH,0,60,San sang
+118,B-404,DTH,0,50,San sang
+119,C-101,DTH,0,60,San sang
+120,C-102,DTH,0,60,San sang
+121,C-103,DTH,0,50,San sang
+122,C-104,DTH,0,60,San sang
+123,C-201,DTH,0,50,San sang
+124,C-202,DTH,0,60,San sang
+125,C-203,DTH,0,60,San sang
+126,C-204,DTH,0,50,San sang
+127,C-301,DTH,0,60,San sang
+128,C-302,DTH,0,50,San sang
+129,C-303,DTH,0,60,San sang
+130,C-304,DTH,0,60,San sang
+131,C-401,DTH,0,50,San sang
+132,C-402,DTH,0,60,San sang
+133,C-403,DTH,0,50,San sang
+134,C-404,DTH,0,60,San sang
+135,D-101,DTH,0,60,San sang
+136,D-102,DTH,0,50,San sang
+137,D-103,DTH,0,60,San sang
+138,D-104,DTH,0,50,San sang
+139,D-201,DTH,0,60,San sang
+140,D-202,DTH,0,60,San sang
+141,D-203,DTH,0,50,San sang
+142,D-204,DTH,0,60,San sang
+143,D-301,DTH,0,50,San sang
+144,D-302,DTH,0,60,San sang
+145,D-303,DTH,0,60,San sang
+146,D-304,DTH,0,50,San sang
+147,D-401,DTH,0,60,San sang
+148,D-402,DTH,0,50,San sang
+149,D-403,DTH,0,60,San sang
+150,D-404,DTH,0,60,San sang
+151,Phong hop - PH101,TD,0,50,Khong duoc muon
+152,Phong hop - PH102,TD,0,50,Khong duoc muon
+153,Phong hop - PH103,TD,0,50,Khong duoc muon
+154,Phong hop - PH104,TD,0,50,Khong duoc muon
+155,Phong hop - PH105,TD,0,50,Khong duoc muon
+156,Phong Hoi nghi -HN106,DTH,0,60,Khong duoc muon
+157,Phong Hoi nghi -HN107,DTH,0,60,Khong duoc muon
+158,Phong Hoi nghi -HN108,DTH,0,60,Khong duoc muon
+159,Phong Hoi nghi -HN109,DTH,0,60,Khong duoc muon
+160,Phong Hoi nghi -HN110,DTH,0,60,Khong duoc muon
